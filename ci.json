@@ -1,0 +1,12 @@
+{
+  "dockerRegistryUrl": "keppel.eu-nl-1.cloud.sap",
+  "dockerRegistryProject": "com-sap-dx-cii-integration",
+  "gitRepository": "git@github.wdf.sap.corp:sapdx/com.sap.dx.cii.integration.git",
+  "modules": [
+    {
+      "module": "",
+      "artifactName": "integration-service",
+      "pathToArtifact": "./build/libs/*.jar"
+    }
+  ]
+}
