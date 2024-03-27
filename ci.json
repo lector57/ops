@@ -4,7 +4,7 @@
   "gitRepository": "git@github.wdf.sap.corp:sapdx/com.sap.dx.cii.integration.git",
   "modules": [
     {
-      "module": "",
+      "module": "app",
       "artifactName": "integration-service",
       "pathToArtifact": "./build/libs/*.jar"
     }
